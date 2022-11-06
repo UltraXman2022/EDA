@@ -31,17 +31,17 @@ Describe the factors that may have resulted in missing values</li></ul>
 <li>What factors impact the price most? Take each of the popular types you detected at the previous stage and study whether the price depends on age, mileage, condition, transmission type, and color. For categorical variables (transmission type and color), plot box-and-whisker charts, and create scatterplots for the rest</li> When analyzing categorical variables, note that the categories must have at least 50 ads; otherwise, their parameters won't be valid for analysis</li></ul>
 <h2>Step 5. Write an overall conclusion</h2>
 Format: Complete the task in a Jupyter notebook. Put your code in the code cells and your text explanations in markdown cells, then apply formatting and headings.
-Description of the data
+<h3>Description of the data</h3>
 The dataset contains the following fields:
-price
-model_year
-model
-condition
-cylinders
-fuel — gas, diesel, etc.
-odometer — the vehicle's mileage when the ad was published
-transmission
-paint_color
-is_4wd — whether the vehicle has 4-wheel drive (Boolean type)
-date_posted — the date the ad was published
-days_listed — from publication to removal
+<ul><li>price</li>
+<li>model_year</li>
+<li>model</li>
+<li>condition</li>
+<li>cylinders</li>
+<li>fuel — gas, diesel, etc.</li>
+<li>odometer — the vehicle's mileage when the ad was published</li>
+<li>transmission</li>
+<li>paint_color</li>
+<li>is_4wd — whether the vehicle has 4-wheel drive (Boolean type)</li>
+<li>date_posted — the date the ad was published</li>
+<li>days_listed — from publication to removal</li></ul>
