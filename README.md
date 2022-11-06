@@ -10,11 +10,11 @@ vehicles_us.csv
 <li>When appropriate, do fill in the values. Explain why you chose to do so and how you selected the replacement values</li>
 Describe the factors that may have resulted in missing values</li></ul>
 <b> - Convert the data to the required types:</b>
-<ul><li>Indicate the columns where the data types need to be changed and explain why/li></ul>
-Step 3. Calculate and add to the table the following:
-Day of the week, month, and year the ad was placed
-The vehicle's age (in years) when the ad was placed
-The vehicle's average mileage per year
+<ul><li>Indicate the columns where the data types need to be changed and explain why</li></ul>
+<h2>Step 3. Calculate and add to the table the following:</h2>
+<ul><li>Day of the week, month, and year the ad was placed
+<li>The vehicle's age (in years) when the ad was placed
+<li>The vehicle's average mileage per year</li></ul><br>
 In the condition column, replace string values with a numeric scale:
 new = 5
 like new = 4
