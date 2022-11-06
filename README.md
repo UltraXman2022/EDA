@@ -15,14 +15,14 @@ Describe the factors that may have resulted in missing values</li></ul>
 <ul><li>Day of the week, month, and year the ad was placed
 <li>The vehicle's age (in years) when the ad was placed
 <li>The vehicle's average mileage per year</li></ul><br>
-In the condition column, replace string values with a numeric scale:
-new = 5
-like new = 4
-excellent = 3
-good = 2
-fair = 1
-salvage = 0
-Step 4. Carry out exploratory data analysis, following the instructions below:
+<h3>In the condition column, replace string values with a numeric scale:</h3>
+<ul><li>new = 5</li>
+<li>like new = 4</li>
+<li>excellent = 3</li>
+<li>good = 2</li>
+<li>fair = 1</li>
+<li>salvage = 0</li></ul>
+<h2>Step 4. Carry out exploratory data analysis, following the instructions below:</h2>
 Study the following parameters: price, vehicle's age when the ad was placed, mileage, number of cylinders, and condition. Plot histograms for each of these parameters. Study how outliers affect the form and readability of the histograms.
 Determine the upper limits of outliers, remove the outliers and store them in a separate DataFrame, and continue your work with the filtered data.
 Use the filtered data to plot new histograms. Compare them with the earlier histograms (the ones that included outliers). Draw conclusions for each histogram.
