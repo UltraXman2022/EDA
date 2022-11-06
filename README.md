@@ -3,7 +3,7 @@ You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicl
 
 <h2>Instructions for completing the project</h2>
 <h2>Step 1. Open the data< file and study the general information</h2>
-File path: /datasets/
+vehicles_us.csv
 <h2>Step 2. Data preprocessing<h/2>
 — Identify and study missing values:
 <ul>li>In some cases there's an obvious way to replace missing values. For instance, if a Boolean field contains only True values, it's reasonable to assume that the missing values are False. There aren't such obvious fixes for other data types, and there are cases when the fact that a value is missing is significant. In such instances, don't fill in the values.
