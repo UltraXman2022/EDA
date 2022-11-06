@@ -28,8 +28,8 @@ Describe the factors that may have resulted in missing values</li></ul>
 <li>Use the filtered data to plot new histograms. Compare them with the earlier histograms (the ones that included outliers). Draw conclusions for each histogram</li>
 <li>Study how many days advertisements were displayed (days_listed). Plot a histogram. Calculate the mean and median. Describe the typical lifetime of an ad. Determine when ads were removed quickly, and when they were listed for an abnormally long time</li>
 <li>Analyze the number of ads and the average price for each type of vehicle. Plot a graph showing the dependence of the number of ads on the vehicle type. Select the two types with the greatest number of ads</li>
-<li>What factors impact the price most? Take each of the popular types you detected at the previous stage and study whether the price depends on age, mileage, condition, transmission type, and color. For categorical variables (transmission type and color), plot box-and-whisker charts, and create scatterplots for the rest</li> When analyzing categorical variables, note that the categories must have at least 50 ads; otherwise, their parameters won't be valid for analysis.</li></ul>
-Step 5. Write an overall conclusion
+<li>What factors impact the price most? Take each of the popular types you detected at the previous stage and study whether the price depends on age, mileage, condition, transmission type, and color. For categorical variables (transmission type and color), plot box-and-whisker charts, and create scatterplots for the rest</li> When analyzing categorical variables, note that the categories must have at least 50 ads; otherwise, their parameters won't be valid for analysis</li></ul>
+<h2>Step 5. Write an overall conclusion</h2>
 Format: Complete the task in a Jupyter notebook. Put your code in the code cells and your text explanations in markdown cells, then apply formatting and headings.
 Description of the data
 The dataset contains the following fields:
