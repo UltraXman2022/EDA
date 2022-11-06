@@ -5,11 +5,11 @@ You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicl
 <h2>Step 1. Open the data file and study the general information</h2>
 vehicles_us.csv
 <h2>Step 2. Data preprocessing</h2>
-<b>- Identify and study missing values:</b>
+<b>Identify and study missing values:</b>
 <ul><li>In some cases there's an obvious way to replace missing values. For instance, if a Boolean field contains only True values, it's reasonable to assume that the missing values are False. There aren't such obvious fixes for other data types, and there are cases when the fact that a value is missing is significant. In such instances, don't fill in the values
 <li>When appropriate, do fill in the values. Explain why you chose to do so and how you selected the replacement values</li>
 Describe the factors that may have resulted in missing values</li></ul>
-<b> - Convert the data to the required types:</b>
+<b>Convert the data to the required types:</b>
 <ul><li>Indicate the columns where the data types need to be changed and explain why</li></ul>
 <h2>Step 3. Calculate and add to the table the following:</h2>
 <ul><li>Day of the week, month, and year the ad was placed
