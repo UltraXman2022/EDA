@@ -14,7 +14,7 @@ Describe the factors that may have resulted in missing values</li></ul>
 <h2>Step 3. Calculate and add to the table the following:</h2>
 <ul><li>Day of the week, month, and year the ad was placed
 <li>The vehicle's age (in years) when the ad was placed
-<li>The vehicle's average mileage per year</li></ul><br>
+<li>The vehicle's average mileage per year</li></ul>
 <h3>In the condition column, replace string values with a numeric scale:</h3>
 <ul><li>new = 5</li>
 <li>like new = 4</li>
